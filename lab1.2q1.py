@@ -1,4 +1,5 @@
 def count(str):
+    words=[]
     words= str.split()
     counts=dict()
     for i in words:

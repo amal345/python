@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f2ab78a-70d3-402e-93b7-f47144493c31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/prime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/threedgraphics/cuboid.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/threedgraphics/cuboid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.2q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.2q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.2q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.2q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.py" beforeDir="false" afterPath="$PROJECT_DIR$/package.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +43,8 @@
       <recent name="D:\python\pythonlab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab2.2q5">
-    <configuration name="lab2.2q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.string">
+    <configuration name="cuboid" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonlab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,12 +52,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphics/threedgraphics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2.2q1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphics/threedgraphics/cuboid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab2.2q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab1.2q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2.2q2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab1.2q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab2.2q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab1.2q5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +101,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2.2q3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab1.2q5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab2.2q4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +123,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2.2q4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lll" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab2.2q5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="package" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonlab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +145,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2.2q5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/package.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,19 +199,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.lab2.2q1" />
-      <item itemvalue="Python.lab2.2q2" />
-      <item itemvalue="Python.lab2.2q3" />
-      <item itemvalue="Python.lab2.2q4" />
-      <item itemvalue="Python.lab2.2q5" />
+      <item itemvalue="Python.cuboid" />
+      <item itemvalue="Python.package" />
+      <item itemvalue="Python.lll" />
+      <item itemvalue="Python.lab1.2q1" />
+      <item itemvalue="Python.lab1.2q5" />
+      <item itemvalue="Python.prime" />
+      <item itemvalue="Python.string" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab2.2q5" />
-        <item itemvalue="Python.lab2.2q4" />
-        <item itemvalue="Python.lab2.2q3" />
-        <item itemvalue="Python.lab2.2q2" />
-        <item itemvalue="Python.lab2.2q1" />
+        <item itemvalue="Python.string" />
+        <item itemvalue="Python.prime" />
+        <item itemvalue="Python.lab1.2q5" />
+        <item itemvalue="Python.lab1.2q1" />
+        <item itemvalue="Python.lll" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +232,14 @@
       <workItem from="1613219025576" duration="2291000" />
       <workItem from="1613379019270" duration="92000" />
       <workItem from="1613455946890" duration="1194000" />
-      <workItem from="1614783868824" duration="1773000" />
+      <workItem from="1614783868824" duration="2455000" />
+      <workItem from="1614823900020" duration="1327000" />
+      <workItem from="1614829337579" duration="786000" />
+      <workItem from="1619673026902" duration="184000" />
+      <workItem from="1624885310539" duration="1577000" />
+      <workItem from="1624889088117" duration="1553000" />
+      <workItem from="1624939191391" duration="881000" />
+      <workItem from="1624942829153" duration="1709000" />
     </task>
     <servers />
   </component>
@@ -189,66 +247,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="72" key="#Inspections" timestamp="1613193531964">
+    <state x="548" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619673096033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="72" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1613193531964" />
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613193772384">
+    <state x="548" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1619673096033" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1624944554580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613193772384" />
-    <state x="507" y="28" key="#lab1.1_leapyear" timestamp="1613191050501">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624944554580" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1624944554580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="507" y="28" key="#lab1.1_leapyear/0.0.1536.824@0.0.1536.824" timestamp="1613191050501" />
-    <state x="548" y="155" key="FileChooserDialogImpl" timestamp="1614783906467">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624944554580" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1624944554580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614783906467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1614790153859">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624944554580" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1624944554580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614790153859" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1614790153859">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624944554580" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1624942829322">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614790153859" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1614790153858">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1624942829322" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1624942908017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614790153858" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1614790153859">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614790153859" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1613218933015">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613218933015" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1613218933015">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613218933015" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1613218933015">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613218933015" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1613218933015">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613218933015" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1613193700144">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613193700144" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1614783871136">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1614783871136" />
-    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613379111985">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1613379111985" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1624942908017" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -262,7 +288,8 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonlab$package.coverage" NAME="package Coverage Results" MODIFIED="1614789332870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonlab$package.coverage" NAME="package Coverage Results" MODIFIED="1619673156525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonlab$prime.coverage" NAME="prime Coverage Results" MODIFIED="1624940843626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_3q7.coverage" NAME="lab1.3q7 Coverage Results" MODIFIED="1613208089616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_3q12.coverage" NAME="lab1.3q12 Coverage Results" MODIFIED="1613214348865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_1leapyear.coverage" NAME="lab1.1leapyear Coverage Results" MODIFIED="1613194382209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -282,17 +309,20 @@
     <SUITE FILE_PATH="coverage/pythonlab$lab1_1q4.coverage" NAME="lab1.1q4 Coverage Results" MODIFIED="1613197514458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab2_1q4.coverage" NAME="lab2.1q4 Coverage Results" MODIFIED="1613217160471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_2q2.coverage" NAME="lab1.2q2 Coverage Results" MODIFIED="1613197798106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonlab$lab1_2q5.coverage" NAME="lab1.2q5 Coverage Results" MODIFIED="1613198305997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_3q3.coverage" NAME="lab1.3q3 Coverage Results" MODIFIED="1613203502223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab2_2q2.coverage" NAME="lab2.2q2 Coverage Results" MODIFIED="1614789839447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonlab$lab1_2q5.coverage" NAME="lab1.2q5 Coverage Results" MODIFIED="1624889444596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_3q9.coverage" NAME="lab1.3q9 Coverage Results" MODIFIED="1613212129511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonlab$lll.coverage" NAME="lll Coverage Results" MODIFIED="1619673209046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonlab$cuboid.coverage" NAME="cuboid Coverage Results" MODIFIED="1614824540622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/threedgraphics" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_3q8.coverage" NAME="lab1.3q8 Coverage Results" MODIFIED="1613208618706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab2_1q1.coverage" NAME="lab2.1q1 Coverage Results" MODIFIED="1613214760645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_3q2.coverage" NAME="lab1.3q2 Coverage Results" MODIFIED="1613202936404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_3q5.coverage" NAME="lab1.3q5 Coverage Results" MODIFIED="1613203943458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab2_2q4.coverage" NAME="lab2.2q4 Coverage Results" MODIFIED="1614790085597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonlab$lab1_2q1.coverage" NAME="lab1.2q1 Coverage Results" MODIFIED="1613197926747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonlab$lab1_2q1.coverage" NAME="lab1.2q1 Coverage Results" MODIFIED="1624889373411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab2_1q6.coverage" NAME="lab2.1q6 Coverage Results" MODIFIED="1613218089238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonlab$string.coverage" NAME="string Coverage Results" MODIFIED="1624944554573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_1q3.coverage" NAME="lab1.1q3 Coverage Results" MODIFIED="1613195955831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab2_1q3.coverage" NAME="lab2.1q3 Coverage Results" MODIFIED="1613215867240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlab$lab1_2q4.coverage" NAME="lab1.2q4 Coverage Results" MODIFIED="1613198142784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
